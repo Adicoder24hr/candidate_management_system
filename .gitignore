@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
+.next/
+.venv*/
+*.log
+.pytest_cache/
+.e2e-request.json
